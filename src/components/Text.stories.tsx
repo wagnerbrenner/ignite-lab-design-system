@@ -1,4 +1,5 @@
 import {Meta, StoryObj} from "@storybook/react"
+import React from "react";
 import { Text, TextProps } from "./Text";
 
 export default {

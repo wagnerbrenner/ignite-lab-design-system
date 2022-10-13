@@ -1,4 +1,5 @@
 import {Meta, StoryObj} from "@storybook/react"
+import React from "react";
 import { Heading, HeadingProps } from "./Heading";
 
 export default {

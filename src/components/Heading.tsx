@@ -1,6 +1,7 @@
 import { ReactNode } from 'react';
 import { Slot } from '@radix-ui/react-slot';
 import { clsx } from 'clsx';
+import React from 'react';
 
 
  export interface HeadingProps{
