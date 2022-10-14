@@ -13,12 +13,10 @@ module.exports = {
     colors: {
       transparent: "transparent",
 
-      black: '#000',
-      white: '#FFF',
+      black: "#000",
+      white: "#FFF",
 
-
-      gray:{
-
+      gray: {
         900: "#121214",
         800: "#202024",
         400: "#7C7C8A",
@@ -26,11 +24,10 @@ module.exports = {
         100: "#e1e1e6",
       },
 
-      cyan:{
+      cyan: {
         500: "#81d8f7",
         300: "#9be1fb",
-
-      }
+      },
     },
     extend: {
       fontFamily: { sans: "Inter, sans-serif" },
